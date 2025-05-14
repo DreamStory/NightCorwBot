@@ -22,7 +22,7 @@ const verifyChannelName = "身分驗證-verification";
 const logChannelName = "驗證紀錄-verification-log";
 
 const formatGuide = `📌 請使用以下格式進行身分驗證：
-<server> <遊戲ID>
+<server>space<遊戲ID>
 【範例 Examples】
 \`\`\`
 Knight 小艾
